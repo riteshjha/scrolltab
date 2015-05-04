@@ -1,8 +1,8 @@
 /*!
  * jQuery UI Tab Scroll Plugin V 1.0
  * http://riteshsblog.blogspot.com/
- *
- * Copyright 2011, Ritesh Jha
+ * 
+ * Copyright 2011, Ritesh Jha (mailrkj at gmail.com)
  * Code Licensed Apache License 2.0
  * Date: Thu Sep 1 2011
  */
